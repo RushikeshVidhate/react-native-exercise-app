@@ -2,4 +2,4 @@
 
 ## Speed Code [Watch on YouTube](https://youtu.be/Zan1-7zOoLI)
 
-![App UI](/assets/images/maxresdefault.jpg)
+![App UI](app/assets/images/maxresdefault.jpg)
